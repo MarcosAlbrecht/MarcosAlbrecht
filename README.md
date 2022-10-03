@@ -1,5 +1,5 @@
 # Olá, meu nome é Marcos Roberto Albrecht
-Sou formado em Tecnólogo em Sistemas para Internet para Universidade Tecnológica Federal do Paraná, Atualmente atuo como Programador Delphi principalmente dando manutenção no sistema principal da empresa, além da criação de novos sistemas internos, como sistema de chamado, sistemas de bot etc. Tenho experiências com banco de dados Firebird 3.0, NoSQL e PostGreSql.
+Sou formado em Tecnólogo em Sistemas para Internet pela Universidade Tecnológica Federal do Paraná, Atualmente atuo como Programador Delphi a aproximadamente 3 anos orientado a eventos, principalmente dando manutenção no sistema principal da empresa, além da criação de novos sistemas internos, como sistema de chamado, sistemas de bot etc. Tenho experiências com banco de dados Firebird 3.0, NoSQL e PostGreSql.
 
 Estou matriculado na carreira Ignite da RocketSeat, onde estou estudando React Native, React e NodeJS. Em meus repositórios possuo alguns projetos que ja realizei com React Native, NodeJS e Java com Spring Boot link -> https://github.com/MarcosAlbrecht?tab=repositories
 
