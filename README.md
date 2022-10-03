@@ -9,6 +9,8 @@ Estou matriculado na carreira Ignite da RocketSeat, onde estou estudando React N
 ![Delphi](https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![reactnative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #
 
@@ -17,9 +19,9 @@ Estou matriculado na carreira Ignite da RocketSeat, onde estou estudando React N
 ## Alguns projetos que estou trabalhando
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=desafio-todolist-rocketseat&theme=radical)](https://github.com/MarcosAlbrecht/desafio-todolist-rocketseat)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=rn-chamados-rocketseat&theme=radical)](https://github.com/MarcosAlbrecht/rn-chamados-rocketseat)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=petsApp-V2&theme=radical)](https://github.com/MarcosAlbrecht/petsApp-V2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=ignite-teams-reactnative&theme=radical)](https://github.com/MarcosAlbrecht/ignite-teams-reactnative)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=petsApp-V2&theme=radical)](https://github.com/MarcosAlbrecht/petsApp-V2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=rn-chamados-rocketseat&theme=radical)](https://github.com/MarcosAlbrecht/rn-chamados-rocketseat)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=api-tcc&theme=radical)](https://github.com/MarcosAlbrecht/api-tcc)
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAlbrecht&theme=radical)](https://github.com/MarcosAlbrecht)
