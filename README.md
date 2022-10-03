@@ -14,11 +14,13 @@ Estou matriculado na carreira Ignite da RocketSeat, onde estou estudando React N
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosAlbrecht&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 #
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=desafio-todolist-rocketseat&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=rn-chamados-rocketseat&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=petsApp-V2&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=ignite-teams-reactnative&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=api-tcc&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## Alguns projetos que estou trabalhando
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=desafio-todolist-rocketseat&theme=radical)](https://github.com/MarcosAlbrecht/desafio-todolist-rocketseat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=rn-chamados-rocketseat&theme=radical)](https://github.com/MarcosAlbrecht/rn-chamados-rocketseat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=petsApp-V2&theme=radical)](https://github.com/MarcosAlbrecht/petsApp-V2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=ignite-teams-reactnative&theme=radical)](https://github.com/MarcosAlbrecht/ignite-teams-reactnative)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=api-tcc&theme=radical)](https://github.com/MarcosAlbrecht/api-tcc)
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAlbrecht&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
