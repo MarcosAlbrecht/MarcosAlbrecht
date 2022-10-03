@@ -5,6 +5,13 @@ Estou matriculado na carreira Ignite da RocketSeat, onde estou estudando React N
 
 #
 
+## Skills
+![Delphi](https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![reactnative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+#
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosAlbrecht&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 #
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=desafio-todolist-rocketseat&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -14,3 +21,9 @@ Estou matriculado na carreira Ignite da RocketSeat, onde estou estudando React N
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=api-tcc&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAlbrecht&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+#
+
+## Minhas redes sociais
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/marcos-roberto-albrecht-4a4a6a14a/)
+[<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='linkedin' height='30'>](https://www.facebook.com/marcosralbrecht/)
