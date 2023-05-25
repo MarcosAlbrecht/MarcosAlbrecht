@@ -22,8 +22,8 @@ Estou matriculado na carreira Ignite da RocketSeat, onde estou estudando React N
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=ignite-teams-reactnative&theme=radical)](https://github.com/MarcosAlbrecht/ignite-teams-reactnative)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=petsApp-V2&theme=radical)](https://github.com/MarcosAlbrecht/petsApp-V2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=rn-chamados-rocketseat&theme=radical)](https://github.com/MarcosAlbrecht/rn-chamados-rocketseat)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=api-tcc&theme=radical)](https://github.com/MarcosAlbrecht/api-tcc)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=flutter_quitanda&theme=radical)](https://github.com/MarcosAlbrecht/flutter_quitanda)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=api-tcc&theme=radical)](https://github.com/MarcosAlbrecht/api-tcc)
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAlbrecht&theme=radical)](https://github.com/MarcosAlbrecht)
 
