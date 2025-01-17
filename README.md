@@ -1,12 +1,28 @@
 # Olá, meu nome é Marcos Roberto Albrecht
-Sou formado em Tecnólogo em Sistemas para Internet pela Universidade Tecnológica Federal do Paraná, Trabalho como Programador Delphi a aproximadamente 4 anos, desenvolvendo softwares orientados a eventos, principalmente dando manutenção no sistema principal da empresa, além da criação de novos sistemas internos, como sistema de chamado, sistemas de bot etc. Tenho experiências com banco de dados Firebird 3.0, NoSQL e PostGreSql.
+Sou formado em Tecnologia em Sistemas para Internet pela Universidade Tecnológica Federal do Paraná. Tenho mais de 5 anos de experiência como Programador Delphi, atuando no desenvolvimento de softwares orientados a eventos e soluções robustas para diversas demandas empresariais.
+
+Competências Técnicas
+Além da minha expertise em Delphi, possuo habilidades sólidas em diversas tecnologias modernas:
+
+- Desenvolvimento Mobile:
+Criação e publicação de aplicativos Flutter para as lojas Google Play e App Store.
+Desenvolvimento de aplicativos com React Native, entregando interfaces interativas e eficientes.
+- Desenvolvimento Web:
+Desenvolvimento de sistemas e sites com React e Next.js, focando em performance e experiência do usuário.
+- APIs e Back-end:
+Desenvolvimento de APIs com Spring Boot e Node.js, integrando sistemas com alta performance e segurança.
+- Bancos de Dados:
+Experiência em bancos de dados SQL e NoSQL, garantindo a modelagem, manipulação e otimização de dados para atender a diversas necessidades de negócios.
+- Diferenciais
+Minha experiência diversificada permite que eu me adapte rapidamente a diferentes projetos e tecnologias, entregando soluções completas e escaláveis, tanto no front-end quanto no back-end. Sou apaixonado por criar aplicações que combinam funcionalidade e design, sempre buscando excelência e inovação.
 
 
 Minhas principais skill são: 
 - Flutter
 - Delphi 10.0
 - SQL e NoSql
-- Node.JS
+- Node.JS (Nest)
+- Spring Boot
 - React Native
 
 #
