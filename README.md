@@ -30,7 +30,7 @@ Minhas principais skill são:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=desafio-todolist-rocketseat&theme=radical)](https://github.com/MarcosAlbrecht/desafio-todolist-rocketseat)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=ignite-teams-reactnative&theme=radical)](https://github.com/MarcosAlbrecht/ignite-teams-reactnative)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=law-order-app-flutter&theme=radical)](https://github.com/MarcosAlbrecht/law-order-app-flutter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=next-finance&theme=radical)](https://github.com/MarcosAlbrecht/next-finance)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=rn-chamados-rocketseat&theme=radical)](https://github.com/MarcosAlbrecht/rn-chamados-rocketseat)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=flutter_quitanda&theme=radical)](https://github.com/MarcosAlbrecht/flutter_quitanda)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=cusro-nestjs&theme=radical)](https://github.com/MarcosAlbrecht/cusro-nestjs)
