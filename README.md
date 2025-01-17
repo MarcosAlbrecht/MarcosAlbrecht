@@ -35,7 +35,7 @@ Minhas principais skill são:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=flutter_quitanda&theme=radical)](https://github.com/MarcosAlbrecht/flutter_quitanda)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=api-tcc&theme=radical)](https://github.com/MarcosAlbrecht/api-tcc)
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAlbrecht&theme=radical)](https://github.com/MarcosAlbrecht)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAlbrecht&theme=radical)](https://github.com/cusro-nestjs)
 
 #
 
