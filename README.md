@@ -41,6 +41,7 @@ Minhas principais skill são:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![GooglePlay](https://img.shields.io/badge/Google%20Play-414141.svg?style=for-the-badge&logo=Google-Play&logoColor=white)
 
 #
 
