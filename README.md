@@ -50,6 +50,7 @@ Minhas principais skill são:
 #
 ## Alguns projetos que estou trabalhando
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=app_filmes&theme=radical)](https://github.com/MarcosAlbrecht/app_filmes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=law-order-app-flutter&theme=radical)](https://github.com/MarcosAlbrecht/law-order-app-flutter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=desafio-todolist-rocketseat&theme=radical)](https://github.com/MarcosAlbrecht/desafio-todolist-rocketseat)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosAlbrecht&repo=ignite-teams-reactnative&theme=radical)](https://github.com/MarcosAlbrecht/ignite-teams-reactnative)
