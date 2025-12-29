@@ -1,5 +1,6 @@
 # Olá, meu nome é Marcos Roberto Albrecht
-Sou formado em Tecnologia em Sistemas para Internet pela Universidade Tecnológica Federal do Paraná. Tenho mais de 5 anos de experiência como Programador Delphi, atuando no desenvolvimento de softwares orientados a eventos e soluções robustas para diversas demandas empresariais.
+Sou formado em Tecnologia em Sistemas para Internet pela Universidade Tecnológica Federal do Paraná. Tenho mais de 5 anos de experiência como Programador Delphi, atuando no desenvolvimento de softwares orientados a eventos e soluções robustas para diversas demandas empresariais. 
+Atualmente estou trablhando com desenvolvimento de aplicativos em Flutter, onde realizo manutenções e criação de novas funcionalidades nos aplicativos existentes. 
 
 Competências Técnicas
 Além da minha expertise em Delphi, possuo habilidades sólidas em diversas tecnologias modernas:
